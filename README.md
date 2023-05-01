@@ -4,11 +4,11 @@ Hi 👋 My name is Mário Pinto
 Student in IPCA LESI
 --------------------
 
-Coding for 4 years now...
+Coding for 6 years now...
 
 *   🌍  I'm based in Portugal
 *   ✉️  You can contact me at [mario.joao31@hotmail.com](mailto:mario.joao31@hotmail.com)
-*   🧠  I'm learning Python
+*   🧠  I'm learning Python, TS, NestJs
 *   🤝  I'm open to collaborating on Demola### Skills<p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
                                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
