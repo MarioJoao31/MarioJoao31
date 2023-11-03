@@ -1,15 +1,15 @@
 Hi 👋 My name is Mário Pinto
 ============================
 
-Student in IPCA LESI (2Y OF MY Bachelor's Degree)
+Student in IPCA LESI (3Y OF MY Bachelor's Degree)
 --------------------
 
-Coding for 6 years now...
+Coding for 6 years now... Love jumping into random project, nevermind the difficulty. 
 
-*   🌍  I'm based in Portugal
+*   🌍  I'm based in Portugal, Braga
 *   ✉️  You can contact me at [mario.joao31@hotmail.com](mailto:mario.joao31@hotmail.com)
 *   🧠  I'm learning Python, TS, NestJs
-*   🤝  I'm on my <p align="left">
+  <p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
                                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
                                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
