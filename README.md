@@ -1,10 +1,11 @@
 Hi 👋 My name is Mário Pinto
 ============================
 
-Student in IPCA LESI (3Y OF MY Bachelor's Degree)
+Student in IPCA Masters in Applied Artificial Intelligence (1Y OF MY Master's Degree)
 --------------------
 
 Coding for 6 years now... Love jumping into random project, nevermind the difficulty. 
+Right now the area with most interest i have is computer vision and machine Learning, applying both to create simple project to learn more. 
 
 *   🌍  I'm based in Portugal, Braga
 *   ✉️  You can contact me at [mario.joao31@hotmail.com](mailto:mario.joao31@hotmail.com)
